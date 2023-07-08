@@ -1,0 +1,5 @@
+{
+    "commands": [
+        { "name": "Start", "cmd": "python Tetris.py" }
+    ]
+}
